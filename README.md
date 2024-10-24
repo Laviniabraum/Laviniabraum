@@ -1,5 +1,4 @@
-## OLÁ,eu me chamo Lavínia Braum e estou prestes a concluir o Ensino Médio, junto com meu Técnico em Manutenção e suporte em Informática.
-Entre minhas qualidades,destaco minha curiosidade e determinação. Estou sempre disposta a aprender😜
+## OLÁ,eu me chamo Lavínia Braum e estou prestes a concluir o Ensino Médio, junto com meu Técnico em Manutenção e suporte em Informática.Entre minhas qualidades, destaco minha curiosidade e determinação. Estou sempre disposta a aprender coisas novas e não desisto facilmente diante de desafios. Além disso, valorizo muito o trabalho em equipe e a comunicação, pois acredito que a colaboração é fundamental para o sucesso.Estou animada para aplicar minhas habilidades e interesses em futuras oportunidades e contribuir de forma significativa em projetos na área de tecnologia!😊
 
 ## LINGUAGENS DE PROGRAMAÇÃO 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
@@ -18,3 +17,6 @@ Entre minhas qualidades,destaco minha curiosidade e determinação. Estou sempre
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## ESTATÍSTICAS 
+![LAVINIA BRAUM GitHub stats](https://github-readme-stats.vercel.app/api?username=laviniabraum&show_icons=true&bg_color=00000000)
